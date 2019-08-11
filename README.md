@@ -3,8 +3,8 @@ Using an 8-bit Atmel Microprocessor I created a robot that measures light and wi
 
 ## Required Microprocessor Peripherials
   1. ADC System
-  * Used for taking in voltage from the CDS cells, through a wheatstone bridge configuration.
+     * Used for taking in voltage from the CDS cells, through a wheatstone bridge configuration.
   2. I/O Ports
-  * Used to take in data from snap-action switches.
+     * Used to take in data from snap-action switches.
   3. PWM System
-  * Used to control motor speed. 
+     * Used to control motor speed. 
